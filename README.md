@@ -16,7 +16,7 @@
 * Fork and clone this project locally.
 * Modify this project by including a respective `requirements.txt` to download any `pip` dependencies for this python project.
 * Configure a Jenkins pipeline to build this project.
-* Upon Jenkins successfully building the project, export the respectiev `Jenkins` file and add it to the root directory of your local project.
+* Upon Jenkins successfully building the project, export the respective `Jenkins` file and add it to the root directory of your local project.
 * `push` your changes to your repository upon completion.
 
 
